@@ -6,7 +6,7 @@ The construction of this model will be implemented in several steps:
 - Parsing data about public transport routes;
 - Parsing data about traffic-jams in real time;
 - Processing the received data to obtain general information about itinerary on public transport;
-- Ananlyze receive data and predict so,e unknown data;
+- Ananlyze receive data and predict some unknown data;
 - Building direct route by public transport;
 - Building routes with one transfer by public transport;
 - Building routes with two transfers by public transport.
